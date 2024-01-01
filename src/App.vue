@@ -1,8 +1,9 @@
 <script setup lang="ts">
 // import { RouterLink, RouterView } from 'vue-router'
+import { FwbCard } from 'flowbite-vue'
 </script>
 
 <template>
-  <h2>Hello world</h2>
+  <p>Hello world</p>
 </template>
 
