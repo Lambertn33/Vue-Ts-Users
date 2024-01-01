@@ -18,7 +18,7 @@ import { type UserInterface } from '@/interfaces';
 
 import { FwbSpinner } from 'flowbite-vue'
 
-import TheUsers from '@/components/TheUsers.vue';
+import TheUsers from '@/components/users/TheUsers.vue';
 
 import { fetchUsers } from '@/api/users';
 

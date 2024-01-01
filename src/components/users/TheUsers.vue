@@ -13,6 +13,7 @@
 
 <script setup lang="ts">
 import { type UserInterface } from '@/interfaces';
+
 import { FwbCard } from 'flowbite-vue'
 
 interface UsersComponentProps {
