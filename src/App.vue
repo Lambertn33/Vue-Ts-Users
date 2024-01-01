@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100">
+  <div class="bg-gray-100 h-full">
     <AppNavbar />
     <div class="p-4">
       <RouterView />
